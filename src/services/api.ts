@@ -1,4 +1,5 @@
-export const API_URL = 'http://127.0.0.1:3000'; // IP local para pruebas en el navegador web
+export const API_URL = 'https://trustmarket-backend-production.up.railway.app';
+
 
 
 export const fetchProducts = async () => {
